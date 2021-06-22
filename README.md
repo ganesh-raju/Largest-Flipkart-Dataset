@@ -12,3 +12,10 @@ https://www.flipkart.com/product/p/itmfgygtj8krbyef
 or
 
 https://www.flipkart.com/product/p/itmc?pid=MIEFAMGFUKXYDU4C
+
+Free Datasets:
+
+https://data.world/opensnippets/flipkart-fashion-products-dataset
+https://data.world/opensnippets/flipkart-men-fashions-dataset
+
+Complete Datasets contact us on crawlfeeds.com
